@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Agenda de Compromissos", "Agenda de Compromissos\Agenda de Compromissos.csproj", "{1C161B39-CB47-4AD6-8ECC-B09217E95EB5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C161B39-CB47-4AD6-8ECC-B09217E95EB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C161B39-CB47-4AD6-8ECC-B09217E95EB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C161B39-CB47-4AD6-8ECC-B09217E95EB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C161B39-CB47-4AD6-8ECC-B09217E95EB5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6271F116-C216-4BFB-AC7A-CE8DF9707DC9}
+	EndGlobalSection
+EndGlobal
