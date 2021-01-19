@@ -1,0 +1,56 @@
+C:\Alessandro\Projetos\Projetos Versionados\AgendaDeCompromissoMvcCsharp\Agenda de Compromissos\Agenda de Compromissos\bin\Agenda de Compromissos.dll.config
+C:\Alessandro\Projetos\Projetos Versionados\AgendaDeCompromissoMvcCsharp\Agenda de Compromissos\Agenda de Compromissos\bin\Agenda de Compromissos.dll
+C:\Alessandro\Projetos\Projetos Versionados\AgendaDeCompromissoMvcCsharp\Agenda de Compromissos\Agenda de Compromissos\bin\Agenda de Compromissos.pdb
+C:\Alessandro\Projetos\Projetos Versionados\AgendaDeCompromissoMvcCsharp\Agenda de Compromissos\Agenda de Compromissos\bin\roslyn\csc.exe
+C:\Alessandro\Projetos\Projetos Versionados\AgendaDeCompromissoMvcCsharp\Agenda de Compromissos\Agenda de Compromissos\bin\roslyn\csc.exe.config
+C:\Alessandro\Projetos\Projetos Versionados\AgendaDeCompromissoMvcCsharp\Agenda de Compromissos\Agenda de Compromissos\bin\roslyn\csc.rsp
+C:\Alessandro\Projetos\Projetos Versionados\AgendaDeCompromissoMvcCsharp\Agenda de Compromissos\Agenda de Compromissos\bin\roslyn\csi.exe
+C:\Alessandro\Projetos\Projetos Versionados\AgendaDeCompromissoMvcCsharp\Agenda de Compromissos\Agenda de Compromissos\bin\roslyn\csi.exe.config
+C:\Alessandro\Projetos\Projetos Versionados\AgendaDeCompromissoMvcCsharp\Agenda de Compromissos\Agenda de Compromissos\bin\roslyn\csi.rsp
+C:\Alessandro\Projetos\Projetos Versionados\AgendaDeCompromissoMvcCsharp\Agenda de Compromissos\Agenda de Compromissos\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Alessandro\Projetos\Projetos Versionados\AgendaDeCompromissoMvcCsharp\Agenda de Compromissos\Agenda de Compromissos\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Alessandro\Projetos\Projetos Versionados\AgendaDeCompromissoMvcCsharp\Agenda de Compromissos\Agenda de Compromissos\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Alessandro\Projetos\Projetos Versionados\AgendaDeCompromissoMvcCsharp\Agenda de Compromissos\Agenda de Compromissos\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Alessandro\Projetos\Projetos Versionados\AgendaDeCompromissoMvcCsharp\Agenda de Compromissos\Agenda de Compromissos\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Alessandro\Projetos\Projetos Versionados\AgendaDeCompromissoMvcCsharp\Agenda de Compromissos\Agenda de Compromissos\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Alessandro\Projetos\Projetos Versionados\AgendaDeCompromissoMvcCsharp\Agenda de Compromissos\Agenda de Compromissos\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Alessandro\Projetos\Projetos Versionados\AgendaDeCompromissoMvcCsharp\Agenda de Compromissos\Agenda de Compromissos\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Alessandro\Projetos\Projetos Versionados\AgendaDeCompromissoMvcCsharp\Agenda de Compromissos\Agenda de Compromissos\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Alessandro\Projetos\Projetos Versionados\AgendaDeCompromissoMvcCsharp\Agenda de Compromissos\Agenda de Compromissos\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Alessandro\Projetos\Projetos Versionados\AgendaDeCompromissoMvcCsharp\Agenda de Compromissos\Agenda de Compromissos\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Alessandro\Projetos\Projetos Versionados\AgendaDeCompromissoMvcCsharp\Agenda de Compromissos\Agenda de Compromissos\bin\roslyn\System.Buffers.dll
+C:\Alessandro\Projetos\Projetos Versionados\AgendaDeCompromissoMvcCsharp\Agenda de Compromissos\Agenda de Compromissos\bin\roslyn\System.Collections.Immutable.dll
+C:\Alessandro\Projetos\Projetos Versionados\AgendaDeCompromissoMvcCsharp\Agenda de Compromissos\Agenda de Compromissos\bin\roslyn\System.Memory.dll
+C:\Alessandro\Projetos\Projetos Versionados\AgendaDeCompromissoMvcCsharp\Agenda de Compromissos\Agenda de Compromissos\bin\roslyn\System.Numerics.Vectors.dll
+C:\Alessandro\Projetos\Projetos Versionados\AgendaDeCompromissoMvcCsharp\Agenda de Compromissos\Agenda de Compromissos\bin\roslyn\System.Reflection.Metadata.dll
+C:\Alessandro\Projetos\Projetos Versionados\AgendaDeCompromissoMvcCsharp\Agenda de Compromissos\Agenda de Compromissos\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Alessandro\Projetos\Projetos Versionados\AgendaDeCompromissoMvcCsharp\Agenda de Compromissos\Agenda de Compromissos\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Alessandro\Projetos\Projetos Versionados\AgendaDeCompromissoMvcCsharp\Agenda de Compromissos\Agenda de Compromissos\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Alessandro\Projetos\Projetos Versionados\AgendaDeCompromissoMvcCsharp\Agenda de Compromissos\Agenda de Compromissos\bin\roslyn\vbc.exe
+C:\Alessandro\Projetos\Projetos Versionados\AgendaDeCompromissoMvcCsharp\Agenda de Compromissos\Agenda de Compromissos\bin\roslyn\vbc.exe.config
+C:\Alessandro\Projetos\Projetos Versionados\AgendaDeCompromissoMvcCsharp\Agenda de Compromissos\Agenda de Compromissos\bin\roslyn\vbc.rsp
+C:\Alessandro\Projetos\Projetos Versionados\AgendaDeCompromissoMvcCsharp\Agenda de Compromissos\Agenda de Compromissos\bin\roslyn\VBCSCompiler.exe
+C:\Alessandro\Projetos\Projetos Versionados\AgendaDeCompromissoMvcCsharp\Agenda de Compromissos\Agenda de Compromissos\bin\roslyn\VBCSCompiler.exe.config
+C:\Alessandro\Projetos\Projetos Versionados\AgendaDeCompromissoMvcCsharp\Agenda de Compromissos\Agenda de Compromissos\bin\EntityFramework.dll
+C:\Alessandro\Projetos\Projetos Versionados\AgendaDeCompromissoMvcCsharp\Agenda de Compromissos\Agenda de Compromissos\bin\EntityFramework.SqlServer.dll
+C:\Alessandro\Projetos\Projetos Versionados\AgendaDeCompromissoMvcCsharp\Agenda de Compromissos\Agenda de Compromissos\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Alessandro\Projetos\Projetos Versionados\AgendaDeCompromissoMvcCsharp\Agenda de Compromissos\Agenda de Compromissos\bin\Microsoft.Web.Infrastructure.dll
+C:\Alessandro\Projetos\Projetos Versionados\AgendaDeCompromissoMvcCsharp\Agenda de Compromissos\Agenda de Compromissos\bin\System.Web.Helpers.dll
+C:\Alessandro\Projetos\Projetos Versionados\AgendaDeCompromissoMvcCsharp\Agenda de Compromissos\Agenda de Compromissos\bin\System.Web.Mvc.dll
+C:\Alessandro\Projetos\Projetos Versionados\AgendaDeCompromissoMvcCsharp\Agenda de Compromissos\Agenda de Compromissos\bin\System.Web.Razor.dll
+C:\Alessandro\Projetos\Projetos Versionados\AgendaDeCompromissoMvcCsharp\Agenda de Compromissos\Agenda de Compromissos\bin\System.Web.WebPages.Deployment.dll
+C:\Alessandro\Projetos\Projetos Versionados\AgendaDeCompromissoMvcCsharp\Agenda de Compromissos\Agenda de Compromissos\bin\System.Web.WebPages.dll
+C:\Alessandro\Projetos\Projetos Versionados\AgendaDeCompromissoMvcCsharp\Agenda de Compromissos\Agenda de Compromissos\bin\System.Web.WebPages.Razor.dll
+C:\Alessandro\Projetos\Projetos Versionados\AgendaDeCompromissoMvcCsharp\Agenda de Compromissos\Agenda de Compromissos\bin\EntityFramework.xml
+C:\Alessandro\Projetos\Projetos Versionados\AgendaDeCompromissoMvcCsharp\Agenda de Compromissos\Agenda de Compromissos\bin\EntityFramework.SqlServer.xml
+C:\Alessandro\Projetos\Projetos Versionados\AgendaDeCompromissoMvcCsharp\Agenda de Compromissos\Agenda de Compromissos\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Alessandro\Projetos\Projetos Versionados\AgendaDeCompromissoMvcCsharp\Agenda de Compromissos\Agenda de Compromissos\bin\System.Web.Helpers.xml
+C:\Alessandro\Projetos\Projetos Versionados\AgendaDeCompromissoMvcCsharp\Agenda de Compromissos\Agenda de Compromissos\bin\System.Web.Mvc.xml
+C:\Alessandro\Projetos\Projetos Versionados\AgendaDeCompromissoMvcCsharp\Agenda de Compromissos\Agenda de Compromissos\bin\System.Web.Razor.xml
+C:\Alessandro\Projetos\Projetos Versionados\AgendaDeCompromissoMvcCsharp\Agenda de Compromissos\Agenda de Compromissos\bin\System.Web.WebPages.xml
+C:\Alessandro\Projetos\Projetos Versionados\AgendaDeCompromissoMvcCsharp\Agenda de Compromissos\Agenda de Compromissos\bin\System.Web.WebPages.Deployment.xml
+C:\Alessandro\Projetos\Projetos Versionados\AgendaDeCompromissoMvcCsharp\Agenda de Compromissos\Agenda de Compromissos\bin\System.Web.WebPages.Razor.xml
+C:\Alessandro\Projetos\Projetos Versionados\AgendaDeCompromissoMvcCsharp\Agenda de Compromissos\Agenda de Compromissos\obj\Debug\Agenda de Compromissos.csproj.CoreCompileInputs.cache
+C:\Alessandro\Projetos\Projetos Versionados\AgendaDeCompromissoMvcCsharp\Agenda de Compromissos\Agenda de Compromissos\obj\Debug\Agenda de Compromissos.csproj.CopyComplete
+C:\Alessandro\Projetos\Projetos Versionados\AgendaDeCompromissoMvcCsharp\Agenda de Compromissos\Agenda de Compromissos\obj\Debug\Agenda de Compromissos.dll
+C:\Alessandro\Projetos\Projetos Versionados\AgendaDeCompromissoMvcCsharp\Agenda de Compromissos\Agenda de Compromissos\obj\Debug\Agenda de Compromissos.pdb
