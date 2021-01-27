@@ -1,0 +1,30 @@
+﻿body {
+    font-family: Tahoma, Arial;
+    margin: 0px;
+}
+
+header {
+    padding: 15px;
+    background-color: #5f849f;
+    color: #ffffff;
+}
+
+.conteudo {
+    padding: 20px;
+}
+
+.conteudo h2 {
+        color: #5f849f;
+    }
+
+footer {
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+}
+
+footer p {
+        font-size: small;
+        text-align: center;
+    }

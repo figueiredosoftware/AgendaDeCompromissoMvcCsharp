@@ -18,6 +18,11 @@ namespace Agenda_de_Compromissos.Controllers
             return View();
         }
 
+        public ActionResult Metodo03()
+        {
+            return View();
+        }
+
 
     }
 }
