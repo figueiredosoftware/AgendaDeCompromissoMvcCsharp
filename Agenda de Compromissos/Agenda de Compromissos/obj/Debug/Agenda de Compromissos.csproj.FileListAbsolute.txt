@@ -54,3 +54,4 @@ C:\Alessandro\Projetos\Projetos Versionados\AgendaDeCompromissoMvcCsharp\Agenda 
 C:\Alessandro\Projetos\Projetos Versionados\AgendaDeCompromissoMvcCsharp\Agenda de Compromissos\Agenda de Compromissos\obj\Debug\Agenda de Compromissos.csproj.CopyComplete
 C:\Alessandro\Projetos\Projetos Versionados\AgendaDeCompromissoMvcCsharp\Agenda de Compromissos\Agenda de Compromissos\obj\Debug\Agenda de Compromissos.dll
 C:\Alessandro\Projetos\Projetos Versionados\AgendaDeCompromissoMvcCsharp\Agenda de Compromissos\Agenda de Compromissos\obj\Debug\Agenda de Compromissos.pdb
+C:\Alessandro\Projetos\Projetos Versionados\AgendaDeCompromissoMvcCsharp\Agenda de Compromissos\Agenda de Compromissos\obj\Debug\Agenda de Compromissos.csprojAssemblyReference.cache
