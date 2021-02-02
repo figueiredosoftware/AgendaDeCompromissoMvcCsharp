@@ -15,7 +15,12 @@ header {
 
 .conteudo h2 {
         color: #5f849f;
+        margin-bottom: 50px;
     }
+
+.conteudo a {
+        color: #5f849f;
+}
 
 footer {
     position: fixed;
@@ -27,4 +32,70 @@ footer {
 footer p {
         font-size: small;
         text-align: center;
+        padding-left: 10px;
     }
+
+/* Formulario */
+
+.form-item {
+    margin-bottom: 25px;
+}
+
+.legenda {
+    display: block;
+    margin-bottom: 3px;
+}
+
+.campo {
+    display: block;
+    padding: 4px;
+    border-radius: 2px;
+    border: 1px solid #000;
+}
+
+.botoes {
+    margin-top: 30px;
+}
+
+.botao {
+    padding: 8px;
+    border: 1px solid #000;
+    border-radius: 3px;
+}
+
+.tabela {
+    border-collapse: collapse;
+    width: 90%;
+}
+
+.tabela th, td {
+    padding: 0px;
+    margin: 0px;
+    border: 1px solid #ccc;
+    padding: 6px;
+}
+
+.celulaData {
+    width: 120px;
+    text-align: center;
+}
+
+.celulaHora {
+    width: 50px;
+    text-align: center;
+}
+
+.celulaDescricao {
+    text-align: left;
+}
+
+.celulaComando {
+    text-align: center;
+    width: 90px;
+    font-size: 12px;
+    white-space: nowrap;
+}
+
+.celulaComando a {
+    color: #5f849f;
+}
