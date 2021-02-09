@@ -100,6 +100,7 @@
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="App_Helpers\RotinasWeb.cs" />
     <Compile Include="Controllers\TesteController.cs" />
     <Compile Include="Db\AgendaDb.cs" />
     <Compile Include="Global.asax.cs">
@@ -116,6 +117,8 @@
     <Content Include="Views\_ViewStart.cshtml" />
     <Content Include="Views\Shared\_Layout.cshtml" />
     <Content Include="Views\Teste\Metodo03.cshtml" />
+    <Content Include="Views\Incluir.cshtml" />
+    <Content Include="Views\IncluirOK.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

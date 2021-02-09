@@ -1,0 +1,43 @@
+﻿@model Agenda_de_Compromissos.Models.AgendaViewModel
+
+@{
+    Layout = null;
+}
+
+<h2>Agenda - Incluir Compromisso</h2>
+<form action="/agenda/incluir" method="post">
+
+    @{
+        if (ViewBag.Erros != null)
+        {
+            <ul>
+                @foreach (string erro in ViewBag.Erros)
+                {
+                    <li>@erro</li>
+                }
+            </ul>
+        }
+    }
+
+    <div class="form-item">
+        <label for="DataHora" class="legenda">Data:</label>
+        <input type="text" class="campo" id="Data" name="Data" value="@Model.Data" />
+    </div>
+
+    <div class="form-item">
+        <label for="DataHora" class="legenda">Hora:</label>
+        <input type="text" class="campo" id="Hora" name="Hora" value="@Model.Hora" maxlength="5" style="width:90px" />
+    </div>
+
+    <div class="form-item">
+        <label for="Descricao" class="legenda">Descrição:</label>
+        <input type="text" class="campo" id="Descricao" name="Descricao" value="@Model.Descricao" />
+    </div>
+
+    <div class="botoes">
+        <input type="submit" value="Incluir Compromisso""
+               class="botao" />
+        <input type="button" value="voltar" class="botao" onclick="document.location ='/agenda/listagem'" style="width:100px" />
+    </div>
+
+</form>
