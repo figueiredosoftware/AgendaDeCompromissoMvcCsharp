@@ -1,0 +1,32 @@
+﻿@model List<Agenda_de_Compromissos.Models.AgendaViewModel>
+
+@{ 
+    ViewBag.Title = "Listagem";
+}
+
+<h2>Listagem</h2>
+
+<table class="table">
+    <tr>
+        <th class="celulaComando"></th>
+        <th class="celulaData">Data</th>
+        <th class="celulaHora">Hora</th>
+        <th class="celulaDescricao">Descricao</tr>
+    
+    @foreach (var item in Model) 
+    {
+    <tr>
+        <td class="celulaComando">
+            <a onclick="return confirm('Confirma a exclusão deste registro?')" href="/agenda/excluir/@item.AgendaId">Excluir</a>
+            <a href="/agenda/alterar/@item.AgendaId">Alterar</a>
+        </td>
+        <td class="celulaData">@item.Data</td>
+        <td class="celulaHora">@item.Hora</td>
+        <td class="celulaDescricao">@item.Descricao</td>
+    </tr>
+    }
+</table>
+
+<div class="botoes">
+    <a href="/agenda/Incluir">Novo compromisso</a>
+</div>

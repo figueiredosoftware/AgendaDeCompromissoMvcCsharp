@@ -69,13 +69,14 @@ namespace Agenda_de_Compromissos.Controllers
         }
 
         //ALTERAR
+        [HttpGet]
         public ActionResult Alterar(int id)
         {
             var db = new AgendaDb();
             var compromisso = (from c in db.Compromissos where c.AgendaId == id select c).FirstOrDefault();
             if(compromisso == null)
             {
-                return RedirectToAction("Listagem");
+                return RedirectToAction("Listagem", "Agenda");
             }
             else
             {
@@ -88,12 +89,50 @@ namespace Agenda_de_Compromissos.Controllers
                 };
                 return View(agendaViewModel);
             }
-
         }
 
+        [HttpPost]
+        public ActionResult Alterar(AgendaViewModel agendaViewModel)
+        {
+            var db = new AgendaDb();
+            var compromisso = (from c in db.Compromissos where c.AgendaId == agendaViewModel.AgendaId select c).FirstOrDefault();
 
+            if(compromisso == null)
+            {
+                return RedirectToAction("Listagem", "Agenda");
+            }
+            else
+            {
+                compromisso.Descricao = agendaViewModel.Descricao;
+                compromisso.DataHora = RotinasWeb.dateTimeStringParaDateTime(agendaViewModel.Data, agendaViewModel.Hora);
+                var erros = compromisso.Validar();
 
+                if(erros.Count > 0)
+                {
+                    ViewBag.Erros = erros;
+                    return View(agendaViewModel);
+                }
+                else
+                {
+                    db.Compromissos.Add(compromisso);
+                    db.SaveChanges();
+                    return RedirectToAction("Listagem", "Agenda");
+                }
+            }
+        }
 
+        [HttpGet]
+        public ActionResult Excluir(int id)
+        {
+            var db = new AgendaDb();
+            var compromisso = (from c in db.Compromissos where c.AgendaId == id select c).FirstOrDefault();
 
+            if(compromisso != null)
+            {
+                db.Compromissos.Remove(compromisso);
+                db.SaveChanges();
+            }
+            return RedirectToAction("Listagem", "Agenda");
+        }
     }
 }

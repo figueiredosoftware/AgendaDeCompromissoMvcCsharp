@@ -120,6 +120,7 @@
     <Content Include="Views\Teste\Metodo03.cshtml" />
     <Content Include="Views\Agenda\Incluir.cshtml" />
     <Content Include="Views\Agenda\IncluirOK.cshtml" />
+    <Content Include="Views\Agenda\Listagem.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
