@@ -21,9 +21,14 @@ namespace Agenda_de_Compromissos
             // exemplo:
             // http://servidor/Produtos/ListagemGeral
             //
-            RouteTable.Routes.MapRoute("Roteamento", "{controller}/{action}");
+            //RouteTable.Routes.MapRoute("Roteamento", "{controller}/{action}");
             //Outro roteamento
-            RouteTable.Routes.MapRoute("RoteamentoComParametro", "{controller}/{action}/{id}");
+            //RouteTable.Routes.MapRoute("RoteamentoComParametro", "{controller}/{action}/{id}");
+
+            RouteTable.Routes.MapRoute(name: "Default",
+                                       url: "{controller}/{action}/{id}",
+                                       defaults: new { controller = "Agenda", action = "Listagem", id = UrlParameter.Optional }
+);
         }
 
         protected void Session_Start(object sender, EventArgs e)
